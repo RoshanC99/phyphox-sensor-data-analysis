@@ -1,4 +1,4 @@
-# Sensor Data Analysis
+# Phyphox Sensor Data Analysis
 
 Accelerometer- and gyroscope-based activity analysis of smartphone sensor data collected with the [phyphox](https://phyphox.org/) app. The project walks through the core stages of an Activity Recognition Chain: data acquisition, cleaning, filtering, feature extraction (vector magnitude), and classification (step counting and climbing/walking segmentation).
 
