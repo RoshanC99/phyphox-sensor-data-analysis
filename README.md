@@ -1,4 +1,5 @@
 # Phyphox Sensor Data Analysis
+ GA Tech MS CS Course - CS 7470: Mobile & Ubiquitous Computing 
 
 Accelerometer- and gyroscope-based activity analysis of smartphone sensor data collected with the [phyphox](https://phyphox.org/) app. The project walks through the core stages of an Activity Recognition Chain: data acquisition, cleaning, filtering, feature extraction (vector magnitude), and classification (step counting and climbing/walking segmentation).
 
